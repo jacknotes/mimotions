@@ -1,4 +1,4 @@
-name: 刷步数2
+name: 定时刷步数
 
 on:
   schedule:
